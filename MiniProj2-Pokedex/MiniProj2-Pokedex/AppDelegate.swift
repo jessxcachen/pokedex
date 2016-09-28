@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  MiniProj2-Pokedex
 //
-//  Created by Jessica Chen on 9/26/16.
+//  Created by Jessica Chen on 9/26/16. and Mohit Katyal!
 //  Copyright © 2016 trainingprogram. All rights reserved.
 //
 
